@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Tela7"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:backgroundTint="#000000"
+    tools:context=".MainActivity2_Tela7">
+
+    <ImageView
+        android:id="@+id/img1"
+        android:layout_width="359dp"
+        android:layout_height="175dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="215dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="200dp"
+        android:contentDescription="@string/map"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/map" />
+
+
+    <Button
+        android:id="@+id/btnvoltar3"
+        android:layout_width="141dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="135dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="135dp"
+        android:layout_marginBottom="-585dp"
+        android:backgroundTint="#00bf63"
+        android:text="@string/btnvoltar3"
+        android:textColor="#fff"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="HardcodedText,MissingConstraints,TextContrastCheck,VisualLintBounds" />
+
+
+    <EditText
+        android:id="@+id/txtlocal"
+        android:layout_width="342dp"
+        android:layout_height="93dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="250dp"
+        android:ems="10"
+        android:hint="@string/txtlocal"
+        android:inputType="text"
+        android:textColor="#D8BBBB"
+        android:textColorLink="#C6A7A7"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+    <ImageView
+        android:id="@+id/imglogo5"
+        android:layout_width="110dp"
+        android:layout_height="105dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="294dp"
+        android:layout_marginBottom="684dp"
+        android:contentDescription="@string/imglogo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.032"
+        app:srcCompat="@drawable/logo" />
+
+
+    <Button
+        android:id="@+id/btnverificar2"
+        android:layout_width="186dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="116dp"
+        android:layout_marginTop="480dp"
+        android:layout_marginEnd="117dp"
+        android:layout_marginBottom="180dp"
+        android:backgroundTint="#00bf63"
+        android:text="@string/btnverificar2"
+        android:textColor="#fff"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/btnponto1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="198dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginBottom="685dp"
+        android:backgroundTint="#00bf63"
+        android:text="@string/btnponto1"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="DuplicateIds" />
+
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="29dp"
+        android:background="#5CEC62"
+        android:backgroundTint="#5CEC62"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <LinearLayout
+        android:layout_width="408dp"
+        android:layout_height="21dp"
+        android:layout_marginBottom="25dp"
+        android:background="#5CEC62"
+        android:backgroundTint="#5CEC62"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/imglogo5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"></LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

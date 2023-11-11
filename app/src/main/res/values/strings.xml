@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">PAMPontoCiclo</string>
+    <string name="imglogo"></string>
+    <string name="bntentrar">Entrar</string>
+    <string name="btnproximo">Próximo</string>
+    <string name="txttexto1">SOBRE O APP</string>
+    <string name="txttexto2">O Ponto Ciclo é um aplicativo de SUSTENTABILIDADE, onde você pode descobrir se um objeto é RECICLÁVEL ou Não</string>
+    <string name="txttexto3">Além disso, é possível descobrir os PONTOS DE COLETAS mais próximos, de acordo com a sua localização</string>
+    <string name="txttexto4">O objetivo central do aplicativo é incentivar a reciclagem de maneira clara e dinâmica. Podendo ajudar o ambiente através da tecnologia</string>
+    <string name="btnsus">SUSTENTABILIDADE</string>
+    <string name="btnreci">RECICLÁVEL OU NÃO</string>
+    <string name="btnpontos">PONTOS DE COLETA</string>
+    <string name="btnsus1">Sustentabilidade</string>
+    <string name="txtoquee">O que é?</string>
+    <string name="txttipos">Tipos de Reciclagem </string>
+    <string name="txtoquee1">A reciclagem é um processo de transformação de um objeto descartado. Portanto, por meio da alteração das características de materiais descartáveis um novo produto é criado.</string>
+    <string name="txttipo1">Reciclagem Mecânica: Recolhe os resíduos que serão prensados e moídos.  Reciclagem Energética: Incineração dos resíduos sólidos, que gera energia térmica suficiente para abastecer usinas térmicas. Reciclagem Química: Ocorre por meio do aquecimento de lixo, que é transformado em combustíveis, óleos, gases, matérias-primas e fonte energética.
+</string>
+    <string name="btnvoltar">Voltar</string>
+    <string name="btnreci1">Reciclável ou Não</string>
+    <string name="txtdigite"> Digite o nome do objeto:</string>
+    <string name="btnverificar">VERIFICAR</string>
+    <string name="txtresult">O OBJETO É:</string>
+    <string name="btnvoltar2">Voltar</string>
+    <string name="btnponto1">Pontos de Coletas</string>
+    <string name="txtlocal"> Digite sua Localização</string>
+    <string name="btnverificar2">Abrir Mapa</string>
+    <string name="map"></string>
+    <string name="btnvoltar3">Voltar</string>
+
+    <string name="txtlogin">  Faça seu Login</string>
+    <string name="txtnome">Insira seu nome</string>
+    <string name="txtemail">Insira seu email</string>
+    <string name="txtsenha1">Insira uma senha</string>
+    <string name="txtsenha2">Insira a senha novamente</string>
+    <string name="btnenviar">Enviar</string>
+
+
+    <string name="sustentabilidade">SUSTENTABILIDADE</string>
+
+</resources>
