@@ -7,10 +7,10 @@
     <string name="txttexto2">O Ponto Ciclo é um aplicativo de SUSTENTABILIDADE, onde você pode descobrir se um objeto é RECICLÁVEL ou Não</string>
     <string name="txttexto3">Além disso, é possível descobrir os PONTOS DE COLETAS mais próximos, de acordo com a sua localização</string>
     <string name="txttexto4">O objetivo central do aplicativo é incentivar a reciclagem de maneira clara e dinâmica. Podendo ajudar o ambiente através da tecnologia</string>
-    <string name="btnsus">SUSTENTABILIDADE</string>
+    <string name="btnsus">META</string>
     <string name="btnreci">RECICLÁVEL OU NÃO</string>
     <string name="btnpontos">PONTOS DE COLETA</string>
-    <string name="btnsus1">Sustentabilidade</string>
+    <string name="btnsus1">METAS</string>
     <string name="txtoquee">O que é?</string>
     <string name="txttipos">Tipos de Reciclagem </string>
     <string name="txtoquee1">A reciclagem é um processo de transformação de um objeto descartado. Portanto, por meio da alteração das características de materiais descartáveis um novo produto é criado.</string>
@@ -36,6 +36,6 @@
     <string name="btnenviar">Enviar</string>
 
 
-    <string name="sustentabilidade">SUSTENTABILIDADE</string>
+    <string name="sustentabilidade">METAS</string>
 
 </resources>
