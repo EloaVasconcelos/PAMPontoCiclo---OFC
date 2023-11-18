@@ -15,10 +15,10 @@ https://androiddevbr.wordpress.com/2012/11/25/acelerometro-no-android
 
 ## Conceitos que foram passados no 4 Bimestre:
 >
-> Sensores: 
+> Sensores
 >
 
-## Mudanças no AAP inserindo o SENSOR na Tela de Metas 
+## Mudanças no APP inserindo o SENSOR na Tela de Metas 
 
 ### Sensores 
 > A funcionalidade do Sensor será implementada na tela de metas onde o usuário precisa "Balançar" o dispositivo para que as metas sejam modificadas, aumentando suas metas
