@@ -25,5 +25,19 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <ImageView
+        android:id="@+id/Imgmetas"
+        android:layout_width="351dp"
+        android:layout_height="408dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="83dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="144dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnvoltar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/primeta" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
