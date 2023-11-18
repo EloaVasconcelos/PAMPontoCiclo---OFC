@@ -243,16 +243,17 @@ https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/87e61d04-0aeb-
 ## Sensor - ACELERÔMETRO 
 > A funcionalidade do Sensor será implementada na tela de metas onde o usuário precisa "Balançar" o dispositivo para que as metas sejam modificadas, aumentando suas metas.
 >
- <BR>
+
+<br><
 ### OBJETIVO 
 > Decidimos coloca-lo na tela de Metas que será utilizada para o usuário ter desafios aumentando não só o interesse em fazer a separação dos materiais como tambem se satisfazer por
 > conseguir completar algo ao que foi introduzido.O sensor que utilizaremos será o sensor acelerômetro. Sua função como descrita na parte de funcionalidade do sensor é de aumentar aumentar a dificuldade e fazer > com que o usuário tenha mais tarefas a serem feitas (mais abaixo será explicado o código do sensor).
 
-<BR>
+<br
  ### FUNCIONALIDADE:
  > Cada vez que o usuário "balançar" o celular as metas irão alternando/mudando em ordem aléatoria
 
-<BR>
+<br><br>
 ## Explicando o Código - TELA 5 (METAS) 
 
 
