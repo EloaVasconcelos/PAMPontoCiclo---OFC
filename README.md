@@ -21,7 +21,14 @@ https://androiddevbr.wordpress.com/2012/11/25/acelerometro-no-android
 ## Mudanças no APP inserindo o SENSOR na Tela de Metas 
 
 ### Sensores 
-> A funcionalidade do Sensor será implementada na tela de metas onde o usuário precisa "Balançar" o dispositivo para que as metas sejam modificadas, aumentando suas metas
+> A funcionalidade do Sensor será implementada na tela de metas onde o usuário precisa "Balançar" o dispositivo para que as metas sejam modificadas, aumentando suas metas.
+>
+> <h1><p> Onde será implementado </p></h1>
+Decidimos coloca-lo na tela de metas que será utilizada para o usuário ter desafios aumentando não só o interesse em fazer a separação dos materiais como tambem se satisfazer por
+conseguir completar algo ao que foi introduzido.
+O sensor que utilizaremos será o sensor acelerômetro. Sua função como descrita na parte de funcionalidade do sensor é de aumentar aumentar a dificuldade e fazer com que o usuário
+tenha mais tarefas a serem feitas (mais abaixo será explicado o código do sensor).
+> 
 # Diagrama do Aplicativo 
 
 ![Diagrama](https://github.com/EloaVasconcelos/appPontoCiclo/assets/127448572/c1d363a4-c87e-4c38-becb-c5d6c0ca8eb9)
@@ -106,4 +113,4 @@ https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/cd72a69f-1d59-
 
 > Video 2 
 https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/87e61d04-0aeb-4f70-a569-a6618bb5cb67
->
+
