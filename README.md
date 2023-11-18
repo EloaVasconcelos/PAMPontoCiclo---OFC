@@ -225,9 +225,7 @@ https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/cd72a69f-1d59-
 https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/87e61d04-0aeb-4f70-a569-a6618bb5cb67
 
 
->
->
->
+<BR><br> 
 # 4 BIMESTRE NOVAS MUDANÇAS - TROCA DE DUPLA 
 >
 >
