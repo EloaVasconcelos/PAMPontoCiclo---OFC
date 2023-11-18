@@ -223,11 +223,14 @@ https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/cd72a69f-1d59-
 
 > Video 2 
 https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/87e61d04-0aeb-4f70-a569-a6618bb5cb67
+
+
 >
-
-  
+>
+>
 # 4 BIMESTRE NOVAS MUDANÇAS - TROCA DE DUPLA 
-
+>
+>
 # Nome do Aplicativo: PontoCiclo
 ### Participantes: Eloá Vasconcelos de Macedo e José Vinicius Valmoleda   
 ### Turma: 2ds (turma A)
@@ -242,9 +245,13 @@ https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/87e61d04-0aeb-
 > A funcionalidade do Sensor será implementada na tela de metas onde o usuário precisa "Balançar" o dispositivo para que as metas sejam modificadas, aumentando suas metas.
 >
 > <h1><p> Onde será implementado </p></h1>
-> *OBJETIVO* Decidimos coloca-lo na tela de Metas que será utilizada para o usuário ter desafios aumentando não só o interesse em fazer a separação dos materiais como tambem se satisfazer por
-conseguir completar algo ao que foi introduzido.O sensor que utilizaremos será o sensor acelerômetro. Sua função como descrita na parte de funcionalidade do sensor é de aumentar aumentar a dificuldade e fazer com que o usuário tenha mais tarefas a serem feitas (mais abaixo será explicado o código do sensor).
- *FUNCIONALIDADE*: Cada vez que o usuário "balançar" o celular as metas irão alternando/mudando em ordem aléatoria
+### OBJETIVO 
+> Decidimos coloca-lo na tela de Metas que será utilizada para o usuário ter desafios aumentando não só o interesse em fazer a separação dos materiais como tambem se satisfazer por
+> conseguir completar algo ao que foi introduzido.O sensor que utilizaremos será o sensor acelerômetro. Sua função como descrita na parte de funcionalidade do sensor é de aumentar aumentar a dificuldade e fazer > com que o usuário tenha mais tarefas a serem feitas (mais abaixo será explicado o código do sensor).
+>
+>
+ ### *FUNCIONALIDADE*:
+ > Cada vez que o usuário "balançar" o celular as metas irão alternando/mudando em ordem aléatoria
 
 
 ## Explicando o Código - TELA 5 (METAS) 
