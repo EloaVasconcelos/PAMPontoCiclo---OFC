@@ -271,12 +271,83 @@ https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/87e61d04-0aeb-
 
 <br><br>
 ## Explicando o Código - TELA 5 (METAS)
-<p> Imports de classes do android </p>
+<br>
+
+#### PASSO 1 (dentro do onCreate)
+>
+> DESCRIÇÃO: <p> Imports de classes do android </p>
 Começando com as 4 classes de hardware:
+> 
 - Import android.hardware.Sensor: chama os recursos dos sensores(utilizada para definir a criação de um sensor);
+- 
 - Import android.hardware.SensorEvent: faz com que apareça atividades possíveis do sensor;
+- 
 - Import android.hardware.SensorEventListener: criar um ouvinte que vai determinar as ações do sensor;
+- 
 - Import android.hardware.SensorManager: mostra a gama de sensores e suas funcionalides;
+>
+> ![IMPORTS](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/78149b06-0ad6-4cd3-abdd-e112fe0cbe32)
+
+
+
+
+<br>
+
+### PASSO 2 (dentro do onCreate)
+> DESCRIÇÃO:
+>![COD1](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/efcb95bd-2805-4d41-a84d-a594d6651429)
+
+<br>
+
+### PASSO 3 (dentro do onCreate)
+> DESCRIÇÃO:
+> ![cod2](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/0c5a74c8-a2dd-4e49-8b75-16b82841526d)
+
+<br>
+
+### PASSO 4 (dentro do onCreate)
+> DESCRIÇÃO:
+> ![cod3](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/92545f5e-60e9-4f0e-ac56-834594064744)
+
+<br>
+
+
+### PASSO 5 (dentro do onCreate)
+> DESCRIÇÃO:
+>![cod4](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/2db2aba7-5976-438d-9dcc-9fce556ebf0a)
+
+
+<br>
+
+### PASSO 6 (fora do onCreate)
+> DESCRIÇÃO:
+>![cod5](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/b8345650-5351-4dd4-ac83-748b49419ab6)
+
+
+<br>
+
+### PASSO 7 (fora do onCreate)
+> DESCRIÇÃO:
+> ![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/deae1bb3-1b7f-449f-b656-134a9fadb78f)
+
+<br>
+
+### PASSO 8 (fora do onCreate)
+> DESCRIÇÃO:
+> ![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/238ac0b7-5fbd-4e3f-b0d9-e0aa59ea2e90)
+
+
+<br>
+
+### PASSO 9 (fora do onCreate)
+> DESCRIÇÃO:
+>![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/7e49a037-e75e-483b-8508-08a20e78d1e3)
+
+<br>
+
+### PASSO 10 (fora do onCreate)
+> DESCRIÇÃO:
+>![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/83e7ca3f-513f-459c-8597-fdea48f913a8)
 
 
 
@@ -284,3 +355,4 @@ Começando com as 4 classes de hardware:
 
 https://stackoverflow.com/questions/25256541/android-shakesensor-service-for-shake-detection-in-application-background
 https://androiddevbr.wordpress.com/2012/11/25/acelerometro-no-android
+
