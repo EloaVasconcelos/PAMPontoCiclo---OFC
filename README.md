@@ -287,7 +287,8 @@ Começando com as 4 classes de hardware:
 - 
 - Import android.hardware.SensorManager: mostra a gama de sensores e suas funcionalides;
 >
->![IMPORTS](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/78149b06-0ad6-4cd3-abdd-e112fe0cbe32)
+>![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/4f55638b-99f5-4a46-9d7f-94b9315536ef)
+
 
 
 
@@ -297,67 +298,65 @@ Começando com as 4 classes de hardware:
 ### PASSO 2 (dentro do onCreate)
 > DESCRIÇÃO:
 >
->![COD1](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/efcb95bd-2805-4d41-a84d-a594d6651429)
+>![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/9483d65a-7d24-4771-9a48-b518a2a9b2fa)
 
 <br>
 
 ### PASSO 3 (dentro do onCreate)
 > DESCRIÇÃO:
-> 
-![cod2](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/0c5a74c8-a2dd-4e49-8b75-16b82841526d)
+> ![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/5f918911-abaa-40d7-9665-d4c77c905a1f)
+
 
 <br>
 
 ### PASSO 4 (dentro do onCreate)
 > DESCRIÇÃO:
-> 
-![cod3](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/92545f5e-60e9-4f0e-ac56-834594064744)
+> ![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/5846240d-0596-4333-8e4a-e30a63112eb5)
 
 <br>
 
 
 ### PASSO 5 (dentro do onCreate)
 > DESCRIÇÃO:
->![cod4](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/2db2aba7-5976-438d-9dcc-9fce556ebf0a)
+> 
+>![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/eab92124-1661-4f85-bfe9-551425560fbf)
 
 
 <br>
 
 ### PASSO 6 (fora do onCreate)
 > DESCRIÇÃO:
->![cod5](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/b8345650-5351-4dd4-ac83-748b49419ab6)
+> 
+>![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/13a599c9-50d8-432c-b764-10138edf1554)
 
 
 <br>
 
 ### PASSO 7 (fora do onCreate)
 > DESCRIÇÃO:
->![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/deae1bb3-1b7f-449f-b656-134a9fadb78f)
+> 
+>![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/662dc8f2-dbe3-4027-af5b-4e2606f8b5d9)
 
 <br>
 
 ### PASSO 8 (fora do onCreate)
 > DESCRIÇÃO:
->![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/238ac0b7-5fbd-4e3f-b0d9-e0aa59ea2e90)
+>![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/e589b180-0927-4105-9569-120862f552fb)
+
 
 
 <br>
 
 ### PASSO 9 (fora do onCreate)
 > DESCRIÇÃO:
->![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/7e49a037-e75e-483b
--8508-08a20e78d1e3)
+>![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/97aa4ee9-60f8-453d-8850-39d63349fe01)
 
 
 <br>
 
-### PASSO 10 (fora do onCreate)
-> DESCRIÇÃO:
->![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/83e7ca3f-513f-459c-8597-fdea48f913a8)
 
 
-
-##REFERÊNCIAS DOS SENSORES 
+## REFERÊNCIAS DOS SENSORES 
 
 https://stackoverflow.com/questions/25256541/android-shakesensor-service-for-shake-detection-in-application-background
 
