@@ -265,7 +265,7 @@ https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/87e61d04-0aeb-
 ### PASSO 2 
 > Button = voltar para o menu
 > 
-> ![tela](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/05dfa5c8-3cf0-490f-9b78-79c36645e42b)
+>![tela](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/05dfa5c8-3cf0-490f-9b78-79c36645e42b)
 
 
 
@@ -286,7 +286,7 @@ Começando com as 4 classes de hardware:
 - 
 - Import android.hardware.SensorManager: mostra a gama de sensores e suas funcionalides;
 >
-> ![IMPORTS](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/78149b06-0ad6-4cd3-abdd-e112fe0cbe32)
+>![IMPORTS](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/78149b06-0ad6-4cd3-abdd-e112fe0cbe32)
 
 
 
@@ -295,19 +295,22 @@ Começando com as 4 classes de hardware:
 
 ### PASSO 2 (dentro do onCreate)
 > DESCRIÇÃO:
+>
 >![COD1](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/efcb95bd-2805-4d41-a84d-a594d6651429)
 
 <br>
 
 ### PASSO 3 (dentro do onCreate)
 > DESCRIÇÃO:
-> ![cod2](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/0c5a74c8-a2dd-4e49-8b75-16b82841526d)
+> 
+![cod2](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/0c5a74c8-a2dd-4e49-8b75-16b82841526d)
 
 <br>
 
 ### PASSO 4 (dentro do onCreate)
 > DESCRIÇÃO:
-> ![cod3](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/92545f5e-60e9-4f0e-ac56-834594064744)
+> 
+![cod3](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/92545f5e-60e9-4f0e-ac56-834594064744)
 
 <br>
 
