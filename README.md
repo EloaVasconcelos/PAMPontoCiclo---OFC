@@ -370,7 +370,8 @@ pois é um objeto que está sendo instânciado e criado.
 ### PASSO 9 (fora do onCreate)
 > DESCRIÇÃO: <p> Toast (mensagem que aparece na tela como um pop-up) </p>
 
--
+- Criando fora do onCreate pois é um objeto que será criado, dentro dele temos o que ele mostrara (no nosso caso um texto) que vai notificar o usuário para ele balançar:
+Toast.makeText( "contexto que será aplicado"this, "Balance o celular para mudar a meta") no final temos a mensagem que vai aparecer. 
 
 >![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/97aa4ee9-60f8-453d-8850-39d63349fe01)
 
