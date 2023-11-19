@@ -35,23 +35,23 @@ public class MainActivity2_Tela5 extends AppCompatActivity implements SensorEven
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_activity2_tela5);
 
-        // instanciando meu elementos de tela pelo ID declarado
+        // instânciando os elementos de tela pelo ID declarado
         btnvoltar = findViewById(R.id.btnvoltar);
         imgmetas = findViewById(R.id.Imgmetas);
 
 
         // Inicializar o SensorManager e o Sensor
-        // a classe sensorManager esta recebendo a classe que fornece o acesso aos sensores do android
+        // a classe sensorManager está recebendo a classe que fornece o acesso aos sensores do android
         //Context.SENSOR_SERVICE = identifica o serviço de sensores
         sensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
 
-        
+
         // Definindo o sensor que será utilizado
-        // getDefaultSensor = serve para instanciar o sensor padrão do dispositivo
+        // getDefaultSensor = serve para instânciar o sensor padrão do dispositivo
         sensor = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
 
 
-        // registerListener criando um ouvite do sensor para atualizações dos dados
+        // registerListener criando um ouvinte do sensor para atualizações dos dados
         //this = esta instânciando o ouvinte
         //SENSOR_DELAY_NORMAL = atualização dos dados do sensor, definida como "normal"
         sensorManager.registerListener(this, sensor, SensorManager.SENSOR_DELAY_NORMAL);
@@ -97,8 +97,8 @@ public class MainActivity2_Tela5 extends AppCompatActivity implements SensorEven
     }
 
 
-    private void metas_Random() { //// Criando  um array  com as imagens utilizadas
-        int[] metas = {
+    private void metas_Random() { //// Criando  um array  com as imagens utilizadas,
+        int[] metas = { // cada imagem será representado por um número inteiro (int)
                 R.drawable.primeta, // Chamando as imagens pela pasta de imagens e seus nomes
                 R.drawable.secondmeta,
                 R.drawable.tercmeta,
@@ -107,11 +107,12 @@ public class MainActivity2_Tela5 extends AppCompatActivity implements SensorEven
         };
 
 
+
         // Gera um objeto Random (aleatori) para que as imagens passem aleatóriamente
         Random aleatori = new Random();
         int random_metas = aleatori.nextInt(metas.length);
 
-        // Colando a imagem seleconetas para aparecer na ImageView posicionada na tela.
+        // Colando para aparecer as imagens (atraves dos números) na ImageView posicionada na tela.
         imgmetas.setImageResource(metas[random_metas]);
     }
 
