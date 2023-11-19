@@ -248,8 +248,22 @@ https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/87e61d04-0aeb-
 ### OBJETIVO 
 > Decidimos coloca-lo na tela de Metas que será utilizada para o usuário ter desafios aumentando não só o interesse em fazer a separação dos materiais como tambem se satisfazer por
 > conseguir completar algo ao que foi introduzido.O sensor que utilizaremos será o sensor acelerômetro. Sua função como descrita na parte de funcionalidade do sensor é de aumentar aumentar a dificuldade e fazer > com que o usuário tenha mais tarefas a serem feitas (mais abaixo será explicado o código do sensor).
->
+
+
+<br>
+
+## Montando a tela 
+### PASSO 1 
+> O nosso sensor funciona através de uma ImageView 
+> Então na tela de metas estão apenas 2 elementos (imageview e button)
+> ImageView = mudanças de metas
 > 
+<br>
+
+### PASSO 2 
+> Button = voltar para o menu 
+> ![tela](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/05dfa5c8-3cf0-490f-9b78-79c36645e42b)
+
 
 
 <br><br>
