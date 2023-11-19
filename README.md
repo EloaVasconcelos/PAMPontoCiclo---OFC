@@ -254,14 +254,17 @@ https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/87e61d04-0aeb-
 
 ## Montando a tela 
 ### PASSO 1 
-> O nosso sensor funciona através de uma ImageView 
+> O nosso sensor funciona através de uma ImageView
+> 
 > Então na tela de metas estão apenas 2 elementos (imageview e button)
+> 
 > ImageView = mudanças de metas
 > 
 <br>
 
 ### PASSO 2 
-> Button = voltar para o menu 
+> Button = voltar para o menu
+> 
 > ![tela](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/05dfa5c8-3cf0-490f-9b78-79c36645e42b)
 
 
