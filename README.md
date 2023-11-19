@@ -328,20 +328,22 @@ Começando com as 4 classes de hardware:
 
 ### PASSO 7 (fora do onCreate)
 > DESCRIÇÃO:
-> ![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/deae1bb3-1b7f-449f-b656-134a9fadb78f)
+>![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/deae1bb3-1b7f-449f-b656-134a9fadb78f)
 
 <br>
 
 ### PASSO 8 (fora do onCreate)
 > DESCRIÇÃO:
-> ![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/238ac0b7-5fbd-4e3f-b0d9-e0aa59ea2e90)
+>![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/238ac0b7-5fbd-4e3f-b0d9-e0aa59ea2e90)
 
 
 <br>
 
 ### PASSO 9 (fora do onCreate)
 > DESCRIÇÃO:
->![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/7e49a037-e75e-483b-8508-08a20e78d1e3)
+>![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/7e49a037-e75e-483b
+-8508-08a20e78d1e3)
+
 
 <br>
 
@@ -351,8 +353,19 @@ Começando com as 4 classes de hardware:
 
 
 
-## REFERENCIA DOS SENSORES 
+##REFERÊNCIAS DOS SENSORES 
 
 https://stackoverflow.com/questions/25256541/android-shakesensor-service-for-shake-detection-in-application-background
+
+<br> 
+
 https://androiddevbr.wordpress.com/2012/11/25/acelerometro-no-android
+
+<br>
+
+https://youtu.be/yU_adBHwCIA?si=WJcfWLbXJNcNS6tD
+
+<br> 
+
+https://youtu.be/LsWJipo4knk?si=H0Jn58zYr5AVjcBA
 
