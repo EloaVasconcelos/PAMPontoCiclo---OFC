@@ -339,8 +339,12 @@ Quão 4 imports de classes do android, sendo elas de hardware dos sensores;
 ### PASSO 6 (fora do onCreate)
 > DESCRIÇÃO: <p> Definição dos eixos x e y que serão utilizados no evento no sensor </p>
 
-- Com o sensorEcent começamos a instanciar as cordenadas que serão manipuladas.
-- Para fazer o cálculo é usado o método Math.abs que receberá os valores fazendo a soma certa delas.
+- Com o sensorEvent começamos a instanciar as cordenadas que serão manipuladas.
+- Para fazer o cálculo é usado o método Math.abs que receberá os valores fazendo a soma certa delas:
+float x = event.values[0]
+float y = event.values[1]
+- A partir disso, pegaremos os valos da tela para numa condicional onde valor é absolute:
+if (Math.abs(x) > 14 && Math.asb(y) > -14)
 
 >![cod5](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/b8345650-5351-4dd4-ac83-748b49419ab6)
 
@@ -351,6 +355,8 @@ Quão 4 imports de classes do android, sendo elas de hardware dos sensores;
 > DESCRIÇÃO: <p> Chamando as metas </p>
 
 - Criando array para as imagens que serão adicionadas dependendo dos valores recebido em x e y.
+- o int transforma em um valor inteiro cada foto que está no array correspondendo ao seu indice no memso:
+R.drawable.primeiro  //indice[0] mas o valor inteiro corresponde a 1.
 
 > ![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/4ed2a65c-6e3a-4f6a-aeaf-50669acb6eb8)
 
