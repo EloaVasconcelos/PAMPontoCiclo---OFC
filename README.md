@@ -352,7 +352,8 @@ Quão 4 imports de classes do android, sendo elas de hardware dos sensores;
 
 - Criando array para as imagens que serão adicionadas dependendo dos valores recebido em x e y.
 
-> ![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/deae1bb3-1b7f-449f-b656-134a9fadb78f)
+> ![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/4ed2a65c-6e3a-4f6a-aeaf-50669acb6eb8)
+
 
 <br>
 
