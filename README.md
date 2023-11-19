@@ -364,7 +364,8 @@ Quão 4 imports de classes do android, sendo elas de hardware dos sensores;
 - Pegando as imagens da rray e as posicionando no lugar que está a ImageView, sendo aleatória as imagens. Está fora do onCreate
 pois é um objeto que está sendo instânciado e criado.
 
->![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/7e49a037-e75e-483b-8508-08a20e78d1e3)
+>![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/54657a4e-b682-4f32-8ae9-543ece72f00c)
+
 
 <br>
 
