@@ -253,7 +253,14 @@ https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/87e61d04-0aeb-
 
 
 <br><br>
-## Explicando o Código - TELA 5 (METAS) 
+## Explicando o Código - TELA 5 (METAS)
+<p> Imports de classes do android </p>
+Começando com as 4 classes de hardware:
+- Import android.hardware.Sensor: chama os recursos dos sensores(utilizada para definir a criação de um sensor);
+- Import android.hardware.SensorEvent: faz com que apareça atividades possíveis do sensor;
+- Import android.hardware.SensorEventListener: criar um ouvinte que vai determinar as ações do sensor;
+- Import android.hardware.SensorManager: mostra a gama de sensores e suas funcionalides;
+
 
 
 ## REFERENCIA DOS SENSORES 
