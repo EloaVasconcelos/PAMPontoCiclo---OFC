@@ -378,6 +378,13 @@ Toast.makeText( "contexto que será aplicado"this, "Balance o celular para mudar
 
 <br>
 
+## Vídeos de Execução 
+
+https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/2a4d965c-542c-4719-b239-a43315fe7545
+
+<br>
+
+https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/71e9324b-fbfc-42cf-98ff-e02d327a28cf
 
 
 ## REFERÊNCIAS DOS SENSORES 
