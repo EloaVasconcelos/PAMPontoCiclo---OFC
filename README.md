@@ -275,80 +275,103 @@ https://github.com/EloaVasconcelos/PAMPontoCiclo/assets/127448572/87e61d04-0aeb-
 <br>
 
 #### PASSO 1 (dentro do onCreate)
->
 > DESCRIÇÃO: <p> Imports de classes do android </p>
-Começando com as 4 classes de hardware:
-> 
+Quão 4 imports de classes do android, sendo elas de hardware dos sensores;
+3 classes do android de widget;
+1 classe do android view;
+ 
 - Import android.hardware.Sensor: chama os recursos dos sensores(utilizada para definir a criação de um sensor);
-- 
 - Import android.hardware.SensorEvent: faz com que apareça atividades possíveis do sensor;
-- 
 - Import android.hardware.SensorEventListener: criar um ouvinte que vai determinar as ações do sensor;
-- 
 - Import android.hardware.SensorManager: mostra a gama de sensores e suas funcionalides;
->
->![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/4f55638b-99f5-4a46-9d7f-94b9315536ef)
+- Import android.widget.Button: classe de criaçao um elemento (View) onde o usuário pode clicar para gerar uma ação;
+- Import android.widget.ImageView: classe de criação de um elemento (View) onde pode ser visualizado uma imagem;
+- Import android.widget.Toast: classe que monta mensagem na qual aparecera na tela do usuári (como se fosse um pop-up);
+- Import android.view.View: classe de criação de elemento View;
+<p>Os imports mostrado á cima são os mais importantes nesse app</p>
+> ![IMPORTS](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/78149b06-0ad6-4cd3-abdd-e112fe0cbe32)
 
-
-
+<h1> Agora entramos nos elementos presente no onCreate</h1>
 
 
 <br>
 
 ### PASSO 2 (dentro do onCreate)
-> DESCRIÇÃO:
->
->![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/9483d65a-7d24-4771-9a48-b518a2a9b2fa)
+> DESCRIÇÃO: <p> Criação do button e instânciando Sensor </p>
+
+- Primeira parte com 1 button (Botão de voltar para a tela onde se encontra as telas de atividade do app) e 1 ImageView (onde se encontra as metas).
+- Depois o começo da instância dos sensores.
+- No geral essa parte foi para a criação dos elementos que serão utilizados pelos sensores.
+
+>![COD1](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/efcb95bd-2805-4d41-a84d-a594d6651429)
 
 <br>
 
 ### PASSO 3 (dentro do onCreate)
-> DESCRIÇÃO:
-> ![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/5f918911-abaa-40d7-9665-d4c77c905a1f)
+> DESCRIÇÃO: <p> Salvando os elementosna activity </p>
 
+- Após serem instânciados dentro do sensor, estão sendo acrescentados na activity de visualização das metas.
+
+> ![cod2](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/0c5a74c8-a2dd-4e49-8b75-16b82841526d)
 
 <br>
 
 ### PASSO 4 (dentro do onCreate)
-> DESCRIÇÃO:
-> ![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/5846240d-0596-4333-8e4a-e30a63112eb5)
+> DESCRIÇÃO: <p> Chamando o serviços do sensor que será utilizado </p>
+
+- O código chama os serviços de todos os sensores. Após isso ele pega o tipo de sensor que será utilizado e por último nós temos a concentração dos dados que ele irá "manipular". 
+
+> ![cod3](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/92545f5e-60e9-4f0e-ac56-834594064744)
 
 <br>
 
 
 ### PASSO 5 (dentro do onCreate)
-> DESCRIÇÃO:
-> 
->![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/eab92124-1661-4f85-bfe9-551425560fbf)
+> DESCRIÇÃO: <p> Botão voltar </p>
+
+- Criando o ouvinte para fazer o botão de voltar voltar para a activity anterior a activity de metas.
+
+>![cod4](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/2db2aba7-5976-438d-9dcc-9fce556ebf0a)
 
 
 <br>
 
 ### PASSO 6 (fora do onCreate)
-> DESCRIÇÃO:
-> 
->![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/13a599c9-50d8-432c-b764-10138edf1554)
+> DESCRIÇÃO: <p> Definição dos eixos x e y que serão utilizados no evento no sensor </p>
+
+- Com o sensorEcent começamos a instanciar as cordenadas que serão manipuladas.
+- Para fazer o cálculo é usado o método Math.abs que receberá os valores fazendo a soma certa delas.
+
+>![cod5](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/b8345650-5351-4dd4-ac83-748b49419ab6)
 
 
 <br>
 
 ### PASSO 7 (fora do onCreate)
-> DESCRIÇÃO:
-> 
->![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/662dc8f2-dbe3-4027-af5b-4e2606f8b5d9)
+> DESCRIÇÃO: <p> Chamando as metas </p>
+
+- Criando array para as imagens que serão adicionadas dependendo dos valores recebido em x e y.
+
+> ![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/deae1bb3-1b7f-449f-b656-134a9fadb78f)
 
 <br>
 
+
 ### PASSO 8 (fora do onCreate)
-> DESCRIÇÃO:
->![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/e589b180-0927-4105-9569-120862f552fb)
+> DESCRIÇÃO: <p> Fazendo com que as metas sejam alteradas </p>
 
+- Pegando as imagens da rray e as posicionando no lugar que está a ImageView, sendo aleatória as imagens. Está fora do onCreate
+pois é um objeto que está sendo instânciado e criado.
 
+>![image](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/7e49a037-e75e-483b-8508-08a20e78d1e3)
 
 <br>
 
 ### PASSO 9 (fora do onCreate)
-> DESCRIÇÃO:
+> DESCRIÇÃO: <p> Toast (mensagem que aparece na tela como um pop-up) </p>
+
+-
+
 >![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/97aa4ee9-60f8-453d-8850-39d63349fe01)
 
 
