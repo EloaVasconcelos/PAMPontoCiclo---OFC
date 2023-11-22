@@ -321,7 +321,8 @@ Quão 4 imports de classes do android, sendo elas de hardware dos sensores;
 
 - O código chama os serviços de todos os sensores. Após isso ele pega o tipo de sensor que será utilizado e por último nós temos a concentração dos dados que ele irá "manipular". 
 
-> ![cod3](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/92545f5e-60e9-4f0e-ac56-834594064744)
+>![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/2b2cb2f3-2b10-4fb6-a59f-1b012d5a88f5)
+
 
 <br>
 
@@ -331,7 +332,8 @@ Quão 4 imports de classes do android, sendo elas de hardware dos sensores;
 
 - Criando o ouvinte para fazer o botão de voltar voltar para a activity anterior a activity de metas.
 
->![cod4](https://github.com/EloaVasconcelos/BD---NOVO/assets/127448572/2db2aba7-5976-438d-9dcc-9fce556ebf0a)
+>![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/2efe8a7d-f512-4c02-b0cb-0e6589dbe0d6)
+
 
 
 <br>
