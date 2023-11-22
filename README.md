@@ -411,3 +411,8 @@ https://youtu.be/yU_adBHwCIA?si=WJcfWLbXJNcNS6tD
 
 https://youtu.be/LsWJipo4knk?si=H0Jn58zYr5AVjcBA
 
+
+<br> 
+
+
+https://pt.stackoverflow.com/questions/270210/posicionar-uma-image-view-pelo-aceler%C3%B4metro-do-celular
