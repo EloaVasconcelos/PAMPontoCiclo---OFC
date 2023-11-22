@@ -313,6 +313,17 @@ Quão 4 imports de classes do android, sendo elas de hardware dos sensores;
 > DESCRIÇÃO: <p> Salvando os elementosna activity </p>
 
 - Após serem instânciados dentro do sensor, estão sendo acrescentados na activity de visualização das metas.
+- 
+>@Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        
+        setContentView(R.layout.activity_main_activity2_tela5);
+
+        // instânciando os elementos de tela pelo ID declarado
+        btnvoltar = findViewById(R.id.btnvoltar);
+        imgmetas = findViewById(R.id.Imgmetas);
+>
 
 > ![cod2](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC//assets/127448572/0c5a74c8-a2dd-4e49-8b75-16b82841526d)
 
