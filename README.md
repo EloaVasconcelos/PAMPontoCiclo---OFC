@@ -289,6 +289,7 @@ Quão 4 imports de classes do android, sendo elas de hardware dos sensores;
 - Import android.widget.Toast: classe que monta mensagem na qual aparecera na tela do usuári (como se fosse um pop-up);
 - Import android.view.View: classe de criação de elemento View;
 <p>Os imports mostrado á cima são os mais importantes nesse app</p>
+
 > ![image](https://github.com/EloaVasconcelos/PAMPontoCiclo---OFC/assets/127448572/f8d17e35-f82c-465a-a4c6-11182dab19b3)
 
 
